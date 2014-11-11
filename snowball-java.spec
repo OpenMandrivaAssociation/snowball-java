@@ -1,3 +1,5 @@
+%{?_javapackages_macros:%_javapackages_macros}
+
 Name:          snowball-java
 Version:       0
 Release:       0.3.20130902%{?dist}
