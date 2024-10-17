@@ -5,7 +5,7 @@ Version:       0
 Release:       0.3.20130902%{?dist}
 Summary:       Java stemming algorithm library
 License:       BSD
-URL:           http://snowball.tartarus.org/index.php
+URL:           https://snowball.tartarus.org/index.php
 Source0:       http://snowball.tartarus.org/dist/libstemmer_java.tgz
 # Custom pom file
 Source1:       snowball-template-pom.xml
